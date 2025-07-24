@@ -1,0 +1,14 @@
+## Interface: 110107
+## Title: Console Quest Tracker
+## Notes: A console-style quest tracker for ConsolePort users
+## Version: 0.1
+## Author: YourName
+## SavedVariables: ConsoleQuestDB
+
+consoleport_helper.lua
+core.lua
+frame.lua
+questlist.lua
+options.lua
+events.lua
+steamdeck.lua

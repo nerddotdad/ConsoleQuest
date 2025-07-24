@@ -1,0 +1,8 @@
+<Bindings>
+  <Binding name="TOGGLE_CONSOLEQUEST" Category="BINDING_HEADER_CONSOLEQUEST">
+    ConsoleQuest_ToggleFrame()
+  </Binding>
+  <Binding name="TOGGLE_LOCK" category="BINDING_HEADER_CONSOLEQUEST">
+    ConsoleQuest_ToggleLock()
+  </Binding>
+</Bindings>
